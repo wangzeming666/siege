@@ -1,0 +1,9 @@
+关于SIEGE
+
+Siege是一个http负载测试和基准测试工具。它旨在让Web开发人员在胁迫下测量他们的代码，看看它将如何在互联网上加载。
+Siege支持基本身份验证，Cookie，HTTP，HTTPS和FTP协议。它允许用户使用可配置数量的模拟客户端打到服务器。那些客户将服务器置于围困之下。
+
+平台支持
+
+Siege是在GNU / Linux上编写的，并已成功移植到AIX，BSD，HP-UX和Solaris。它应该在大多数System V UNIX变体和大多数新BSD系统上编译。
+因为Siege依赖于Microsoft不支持的POSIX.1b功能，所以它不会在Windows上运行。当然，您可以使用Siege来测试Windows服务器。
